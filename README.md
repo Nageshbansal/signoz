@@ -10,6 +10,7 @@
 <p align="center">
     <img alt="Downloads" src="https://img.shields.io/badge/docker/pulls/signoz/query-service.svg?label=Docker Downloads"> </a>
     <img alt="GitHub issues" src="https://img.shields.io/github/issues/signoz/signoz"> </a>
+    [![DockerHub](https://img.shields.io/docker/pulls/signoz/query-service.svg?label=Docker Downloads")](https://hub.docker.com/r/signoz/signoz)
     <a href="https://twitter.com/intent/tweet?text=Monitor%20your%20applications%20and%20troubleshoot%20problems%20with%20SigNoz,%20an%20open-source%20alternative%20to%20DataDog,%20NewRelic.&url=https://signoz.io/&via=SigNozHQ&hashtags=opensource,signoz,observability"> 
         <img alt="tweet" src="https://img.shields.io/twitter/url/http/shields.io.svg?style=social"> </a> 
 </p>
